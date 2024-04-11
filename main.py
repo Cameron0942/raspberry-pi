@@ -1,4 +1,4 @@
-import pyautogui as pg
+#import pyautogui as pg
 import requests
 import time
 import json
